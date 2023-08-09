@@ -1,12 +1,12 @@
 let parentdiv=document.getElementById("mart");
-let product=[{name:"Camera",src:"image/Camera1.jpg"},
+let product=[{name:"Camera",src:"image/camera1.jpg"},
 {name:"Bag",src:"image/bag.jpg"},
 {name:"HeadPhones",src:"image/headphone2.jpg"},
 {name:"Watch",src:"image/watch1.jpg"},
 {name:"HeadPhones",src:"image/headphone1.jpg"},
 {name:"Watch",src:"image/watch2.jpg"},
 {name:"Shoe",src:"image/shoe.jpg"},
-{name:"Camera",src:"image/Camera2.jpg"}
+{name:"Camera",src:"image/camera2.jpg"}
 ]
 let prevsec=""
 displayproduct()
